@@ -59,4 +59,4 @@ The learning approach and problem selection follow the [NeetCode roadmap](https:
 ## Related writing
 
 I wrote about this repository and the approach behind it on my blog:
-[Demystifying LeetCode](https://blog.maceage.com/posts/2025/demistifying-leetcode)
+[Demystifying LeetCode](https://blog.maceage.com/posts/2025/demystifying-leetcode)
