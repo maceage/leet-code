@@ -1,5 +1,7 @@
 # LeetCode Puzzles
 
+![Tests](https://github.com/maceage/leet-code/actions/workflows/tests.yml/badge.svg)
+
 My C# solutions to **122 LeetCode problems**, organised by algorithmic topic and covered by unit tests.
 
 Written during an interview-preparation period when most companies were pairing LeetCode-style coding challenges with system design rounds. After twenty-plus years of writing software professionally, I was familiar with most of these data structures but rarely had a use for them in my day-to-day work – so I embarked on a journey of learning as much as I possibly could, using the excellent [NeetCode](https://www.youtube.com/@NeetCode) videos as my curriculum.
